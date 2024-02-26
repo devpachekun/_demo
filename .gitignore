@@ -1,6 +1,6 @@
 # Directories #
-/bin/
-/obj/
+**/bin/
+**/obj/
 /.vs/
 /.vscode/
 /packages/
