@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\s1011_Test_Componentes.props" />
-</Project>

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\a70_SystemB.props" />
-</Project>

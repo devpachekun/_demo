@@ -1,1 +1,0 @@
-C:\Users\Pacheking\Desktop\Proyectos\_Demo\s1011_Test_Componentes\obj\Release\net8.0\browser-wasm\PubTmp\Out\web.config
