@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\s1002_VcBlazor.props" />
+</Project>

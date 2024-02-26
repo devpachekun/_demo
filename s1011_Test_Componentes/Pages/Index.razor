@@ -1,0 +1,65 @@
+﻿@page "/"
+
+<!-- Botón para abrir el modal -->
+
+<h1>PROYECTO DEMO - CRISTOBAL PACHECO</h1>
+<button @onclick="ToggleModal">Formulario</button>
+
+<!-- Modal -->
+@if (showModal)
+{
+    <div class="modal-backdrop show"></div>
+    <div class="modal show d-block">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Formulario</h5>
+                    <button type="button" class="close" @onclick="ToggleModal">
+                        <span>&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <label>Resultado: @resultado</label>
+                    <C11 Estilos="width: 250px;" Tipo="text" Label="Test1" Campo="CampoTest1" Desabilitado=false Visible="col" @bind-Respuesta="txtv1" Indice=""></C11>
+                    <C00 Estilos="width: 250px;" Tipo="text" Label="Test2" Campo="CampoTest2" Desabilitado=false Visible="col" @bind-Respuesta="txtv2" Indice=""></C00>
+                    <C00 Estilos="width: 250px;" Tipo="text" Label="Test2" Campo="CampoTest2" Desabilitado=false Visible="col" @bind-Respuesta="txtv2" Indice=""></C00>
+                    <C00 Estilos="width: 250px;" Tipo="text" Label="Test2" Campo="CampoTest2" Desabilitado=false Visible="col" @bind-Respuesta="txtv2" Indice=""></C00>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary btn-lg bg-dark" type="button" style="width: 150px;margin-left: 10px;" @onclick="btnAceptar">Aceptar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+
+@code {
+    private string txtv1 { get; set; } = string.Empty;
+    private string txtv2 { get; set; } = string.Empty;
+    private string resultado { get; set; } = string.Empty;
+    private bool showModal { get; set; } = false;
+
+    private async Task btnAceptar()
+    {
+        double num1, num2;
+        if (double.TryParse(txtv1, out num1) && double.TryParse(txtv2, out num2))
+        {
+            var suma = num1 + num2;
+            resultado = suma.ToString();
+        }
+        else
+        {
+            resultado = "Valores inválidos";
+        }
+
+        // Cierra el modal después de hacer clic en Aceptar
+        //ToggleModal();
+    }
+
+    private void ToggleModal()
+    {
+        showModal = !showModal;
+    }
+}
+

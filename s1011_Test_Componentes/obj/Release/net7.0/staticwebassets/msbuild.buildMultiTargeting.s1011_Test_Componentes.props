@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\s1011_Test_Componentes.props" />
+</Project>

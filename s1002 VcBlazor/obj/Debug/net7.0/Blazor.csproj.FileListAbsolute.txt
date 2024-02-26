@@ -1,0 +1,10 @@
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\Blazor.csproj.AssemblyReference.cache
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\Blazor.AssemblyInfoInputs.cache
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\Blazor.AssemblyInfo.cs
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\Blazor.csproj.CoreCompileInputs.cache
+C:\_OneDrive\OneDrive\Proyectos\1001 VcBlazor\obj\Debug\net7.0\Blazor.csproj.AssemblyReference.cache
+C:\_OneDrive\OneDrive\Proyectos\1001 VcBlazor\obj\Debug\net7.0\Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\_OneDrive\OneDrive\Proyectos\1001 VcBlazor\obj\Debug\net7.0\Blazor.AssemblyInfoInputs.cache
+C:\_OneDrive\OneDrive\Proyectos\1001 VcBlazor\obj\Debug\net7.0\Blazor.AssemblyInfo.cs
+C:\_OneDrive\OneDrive\Proyectos\1001 VcBlazor\obj\Debug\net7.0\Blazor.csproj.CoreCompileInputs.cache

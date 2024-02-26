@@ -1,0 +1,61 @@
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.csproj.AssemblyReference.cache
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.AssemblyInfoInputs.cache
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.AssemblyInfo.cs
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.csproj.CoreCompileInputs.cache
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\bin\Debug\net7.0\a70_System_110_Blazor.staticwebassets.runtime.json
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\bin\Debug\net7.0\a70_System_110_Blazor.deps.json
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\bin\Debug\net7.0\a70_System_110_Blazor.dll
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\bin\Debug\net7.0\a70_System_110_Blazor.pdb
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\bin\Debug\net7.0\a00_Class.dll
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\bin\Debug\net7.0\a70_System.dll
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\bin\Debug\net7.0\a70_System_114_Csistema.dll
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\bin\Debug\net7.0\a70_System.pdb
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\bin\Debug\net7.0\a70_System_114_Csistema.pdb
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\staticwebassets\msbuild.a70_System_110_Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\staticwebassets\msbuild.build.a70_System_110_Blazor.props
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.a70_System_110_Blazor.props
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.a70_System_110_Blazor.props
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\staticwebassets.pack.json
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\staticwebassets.build.json
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\staticwebassets.development.json
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\scopedcss\bundle\a70_System_110_Blazor.styles.css
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.csproj.CopyComplete
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.dll
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\refint\a70_System_110_Blazor.dll
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.pdb
+C:\_OneDrive\OneDrive\Repos\a70_SystemB\obj\Debug\net7.0\ref\a70_System_110_Blazor.dll
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\bin\Debug\net7.0\a70_System_110_Blazor.staticwebassets.runtime.json
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\bin\Debug\net7.0\a70_System_110_Blazor.deps.json
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\bin\Debug\net7.0\a70_System_110_Blazor.dll
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\bin\Debug\net7.0\a70_System_110_Blazor.pdb
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\bin\Debug\net7.0\a70_System_112_Modelos.dll
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\bin\Debug\net7.0\a70_System_114_Csistema.dll
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\bin\Debug\net7.0\a70_System_112_Modelos.pdb
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\bin\Debug\net7.0\a70_System_114_Csistema.pdb
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.csproj.AssemblyReference.cache
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.AssemblyInfoInputs.cache
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.AssemblyInfo.cs
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.csproj.CoreCompileInputs.cache
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\staticwebassets\msbuild.a70_System_110_Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\staticwebassets\msbuild.build.a70_System_110_Blazor.props
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.a70_System_110_Blazor.props
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.a70_System_110_Blazor.props
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\staticwebassets.pack.json
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\staticwebassets.build.json
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\staticwebassets.development.json
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\scopedcss\bundle\a70_System_110_Blazor.styles.css
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.csproj.CopyComplete
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.dll
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\refint\a70_System_110_Blazor.dll
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\a70_System_110_Blazor.pdb
+C:\_OneDrive\OneDrive\Repos\VcSystem\a70_SystemB\obj\Debug\net7.0\ref\a70_System_110_Blazor.dll
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\a70_System_110_Blazor.csproj.AssemblyReference.cache
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\a70_System_110_Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\a70_System_110_Blazor.AssemblyInfoInputs.cache
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\a70_System_110_Blazor.AssemblyInfo.cs
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\a70_System_110_Blazor.csproj.CoreCompileInputs.cache
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\a70_System_110_Blazor.dll
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\refint\a70_System_110_Blazor.dll
+C:\_OneDrive\OneDrive\Proyectos\1001 Blazor\obj\Debug\net7.0\a70_System_110_Blazor.pdb

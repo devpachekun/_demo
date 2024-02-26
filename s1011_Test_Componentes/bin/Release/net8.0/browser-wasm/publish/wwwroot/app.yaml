@@ -1,0 +1,28 @@
+runtime: python39
+env: standard
+
+handlers:
+
+- url: /css/(.*)
+  static_files: css/\1
+  upload: css/(.*)
+
+- url: /sample-data/(.*)
+  static_files: sample-data/\1
+  upload: sample-data/(.*)
+
+- url: /_framework/(.*)
+  static_files: _framework/\1
+  upload: _framework/(.*)
+
+- url: /(.*\.(json|png|css|js|ico|svg))
+  static_files: \1
+  upload: .*\.(json|png|css|js|ico|svg)
+
+- url: /(service-worker\.js)
+  static_files: \1
+  upload: service-worker\.js
+
+- url: /.*
+  static_files: index.html
+  upload: index.html
